@@ -43,8 +43,7 @@ export const createFlags = (): Object => ({
   invalid: null,
   validated: false,
   pending: false,
-  required: false,
-  changed: false
+  required: false
 });
 
 /**
